@@ -20,3 +20,12 @@
 2016-12-01 14:32:55,326 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-12-01 14:32:55,328 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-12-01 14:32:55,336 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-01 14:47:06,209 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: vuongluis.dut.udn.vn:LearningFrameworkSpring:0.0.1-SNAPSHOT @ D:\Git\VuongluisVippro\FrameworkJAVA\FrameworkSpring\pom.xml.
+2016-12-01 14:47:08,051 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-01 14:47:08,051 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\VuongluisVippro\FrameworkJAVA\FrameworkSpring\src\main\resources
+2016-12-01 14:47:08,054 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-01 14:47:08,054 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\VuongluisVippro\FrameworkJAVA\FrameworkSpring\src\test\resources
+2016-12-01 14:47:09,572 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-01 14:47:09,573 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\VuongluisVippro\FrameworkJAVA\FrameworkSpring\src\main\resources
+2016-12-01 14:47:09,575 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-01 14:47:09,576 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\VuongluisVippro\FrameworkJAVA\FrameworkSpring\src\test\resources
